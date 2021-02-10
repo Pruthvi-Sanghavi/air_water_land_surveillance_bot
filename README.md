@@ -5,9 +5,9 @@ water surface for purpose of surveillance, rescue, etc.
 
 ## CONTENTS
 1. [Introduction](https://github.com/Pruthvi-Sanghavi/awl-sb#introduction)
-2. Technical Description
-3. Description of Sketches
-4. Sketches
+2. [Technical Description](https://github.com/Pruthvi-Sanghavi/awl-sb#technical-description)
+3. [Description of Sketches](https://github.com/Pruthvi-Sanghavi/awl-sb#description-of-sketches)
+4. [Sketches](https://github.com/Pruthvi-Sanghavi/awl-sb#sketches)
 5. Conclusion
 
 ### Introduction
