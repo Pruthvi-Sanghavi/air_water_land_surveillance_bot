@@ -2,15 +2,17 @@
 The present project relates to robotics, and more particularly a robot capable of
 maneuvering on multiple regions such as in the air, on the land and as well as on
 water surface for purpose of surveillance, rescue, etc.
+<p align="center">
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/8.png" height="600px"/>
+</p>
 
 ## CONTENTS
 1. [Introduction](https://github.com/Pruthvi-Sanghavi/awl-sb#introduction)
 2. [Technical Description](https://github.com/Pruthvi-Sanghavi/awl-sb#technical-description)
 3. [Description of Sketches](https://github.com/Pruthvi-Sanghavi/awl-sb#description-of-sketches)
 4. [Sketches](https://github.com/Pruthvi-Sanghavi/awl-sb#sketches)
-5. Conclusion
 
-### Introduction
+## Introduction
 <p align="justify">
 Many difficulties are faced in defence and research sector due to a lack of proper
 system which can search, detect, and examine issues. These problems become
@@ -50,7 +52,7 @@ drone journalism, photography, Lidar surveys and military reconnaissance. In the
 case of military operations, surveillance drones may also be weaponized. 
 </p>
 
-### Technical Description
+## Technical Description
 <p align="justify">
   The present invention provides a spherical holonomic morphology that is formed
 by the integration of mechanisms for mobility on various terrains and efficient
@@ -81,7 +83,7 @@ The robot would remain floating on the water surface due to the buoyancy. The
 land motion module would let the robot move on water surface. 
 </p>
 
-### Description of Sketches
+## Description of Sketches
 <p align="justify">
   1 and 2 indicates the upper and the lower spherical shell which forms the outer
 body of the robot. This spherical morphology provides a holonomic freedom to the
@@ -101,7 +103,7 @@ motor on which 27 the reaction wheel is mounted. A camera 32 located on outer su
 gearbox output shafts.
 </p>
 
-### Sketches
+## Sketches
 <p align="center">
   <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/1.png" height="500px"/>
   <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/2.png" height="500px"/>
@@ -109,7 +111,8 @@ gearbox output shafts.
   <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/4.png" height="525px"/>
   <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/5.png" height="584px"/>
   <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/6.png" height="584px"/>
-
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/7.png" height="280px"/>
+  
   
 </p>
 
