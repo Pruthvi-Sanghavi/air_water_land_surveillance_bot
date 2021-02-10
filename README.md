@@ -102,6 +102,16 @@ gearbox output shafts.
 </p>
 
 ### Sketches
+<p align="center">
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/1.png" height="500px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/2.png" height="500px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/3.png" height="525px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/4.png" height="525px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/5.png" height="584px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/awl-sb/blob/main/sketches/6.png" height="584px"/>
+
+  
+</p>
 
 
 
